@@ -1,12 +1,16 @@
 {
   "name": "z-angular-template",
   "version": "0.0.0",
+  "engines": {
+    "node": "18.16.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration=production",
+    "build": "ng build --configuration=production --aot",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "build-prod": "ng build --configuration=production"
   },
   "private": true,
   "dependencies": {
