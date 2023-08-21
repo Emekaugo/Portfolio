@@ -1,0 +1,31 @@
+{
+  "email": "emyugochukwu@gmail.com",
+  "location": "VGC, Lekki, Lagos",
+  "name": "Chukwuemeka Ugochukwu",
+  "phone": "",
+  "avatar": "assets/img/Emeka.jpg",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
+      "meta": "Convenant University,  Sept 2016 – June 202020"
+    }
+  ],
+  "about": "I am Resourceful and detail-oriented software developer with extensive knowledge and experience in Front-end development, customizing eCommerce websites, creating content management systems, dynamic websites and applications that are both user-friendly and aesthetically pleasing.",
+  "socials": [
+    {
+      "name": "emyugochukwu@gmail.com",
+      "link": "mailto:emyugochukwu@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/Emekaugo",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chukwuemeka-ugochukwu-a98b22156/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}
